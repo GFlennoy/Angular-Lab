@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-image: linear-gradient(to right, #f857a6, #ff5858);
+}
+main {
+  margin: 92px 87px 0px 87px;
+  background-color: white;
+  border-radius: 20px;
+  width: 80%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+}
+form {
+  width: 99%;
+}
+.add {
+  display: flex;
+  width: 95%;
+  align-items: center;
+}
